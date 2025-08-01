@@ -14,9 +14,9 @@ Some users unknowingly share public ChatGPT conversations containing sensitive d
 These findings are accessible without authentication and can be leveraged for OSINT or as part of a bug bounty report.
 
 ## 💡 Example Dorks
-`site:chatgpt.com/share intext:"api_key"
-site:chatgpt.com/share intext:"apiKey"
-site:chatgpt.com/share intext:"Authorization: Bearer"`
+`site:chatgpt.com/share intext:"api_key"`
+`site:chatgpt.com/share intext:"apiKey"`
+`site:chatgpt.com/share intext:"Authorization: Bearer"`
 
 ## ⚠️ Disclaimer
 
