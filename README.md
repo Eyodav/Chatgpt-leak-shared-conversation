@@ -1,6 +1,7 @@
-# 🔍 ChatGPT Share Leak Finder
+# 🔍 ChatGPT Leak Shared Conversation
 
 This project uses targeted Google Dorks to uncover publicly shared ChatGPT conversations that may expose sensitive data or internal documents.
+This issue occurs because search engines index shared ChatGPT conversations, making them publicly accessible.
 
 ## 📌 Summary
 
